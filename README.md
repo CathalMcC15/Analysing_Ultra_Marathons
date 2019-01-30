@@ -10,6 +10,6 @@ Order of notebooks
 7. Prediction_Eval #Evaluating these predictions by comparing to actual pb average pace using root mean squared
 8. CCC_Scrape #scraping the data for the CCC race, a smaller race which many runners compete in before the UTMB
 9. CCC_AP_Prediction #Using the same method to produce an average pace prediction for the UTMB
-10. CCC_Eval #Evaluating this as before
+10. CCC_Eval #Evaluating the prediction results as before
 
 All raw csv files are included. 
